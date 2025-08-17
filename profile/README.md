@@ -1,4 +1,4 @@
-![White Nova logo next to Novaworks text](https://raw.githubusercontent.com/Novaworks-Network/.github/refs/heads/main/assets/Novaworks-Banner.png)
+![White Nova logo next to Novaworks text](https://raw.githubusercontent.com/Novaworks-Network/.github/refs/heads/main/assets/Novaworks-Text.png)
 ---
 ## :wave: Hi there, We're Novaworks, a team at [Nirmini Development](https://github.com/Nirmini).
 ### We make the backend service that connects Nova and other Nirmini Development productions.
